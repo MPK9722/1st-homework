@@ -4,12 +4,16 @@ In this repository there are files linked to the development of the two problems
 In the following lines there is an explanation about the content of the repository.
 
 ## Scripts description
+In both the problem we are requested to solve a bunch of challenges provided by the site [**HackerRank.com**](https://www.hackerrank.com/dashboard)
+and to submit the codes we produce in order to pass some test. The challenge is considered solved only if every test is correctly passed obtainig the maximum score.
 
 ### Scripts.py
 
 This python file contains the code solution of each exercise provided by **HackerRank.com** site. 
 The scripts are sorted **by category**, wich are:
+
 #### Problem 1
+
 * Introduction
 * Data Types
 * Strings
@@ -23,7 +27,9 @@ The scripts are sorted **by category**, wich are:
 * XML
 * Closures and Decorations
 * Numpy
+
 #### Problem 2 
+
 * Birthday cake candles
 * Kangaroo
 * Strange Advertising
@@ -33,5 +39,5 @@ The scripts are sorted **by category**, wich are:
 
 
 ## Stamps
-This folder contains a list of the screenshots acquired on the submissions page on HackerRanck. 
+This folder contains a pdf file containing the screenshots acquired on the submissions page on HackerRanck. 
 This files guarantee the correct implementation of the scripts contained in the file mentioned before.
